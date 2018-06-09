@@ -1,0 +1,48 @@
+{
+    "citys" : [
+        {
+            "id" : 1,
+            "name" : "北京"
+        },
+        {
+            "id" : 2,
+            "name" : "上海"
+        },
+        {
+            "id" : 3,
+            "name" : "重庆"
+        },
+        {
+            "id" : 4,
+            "name" : "成都"
+        }
+    ],
+    "author" : {
+        "name" : "密叔",
+        "sex" : "男",
+        "location" : "山东"
+    },
+    "todolist" : [
+        {
+            "id" : 1,
+            "content" : "运动"
+        },
+        {
+            "id" : 2,
+            "content" : "购物"
+        },
+        {
+            "id" : 3,
+            "content" : "做家务"
+        },
+        {
+            "id" : 4,
+            "content" : "编程"
+        },
+        {
+            "id" : 5,
+            "content" : "写作"
+        }
+    ]
+
+}
